@@ -10,7 +10,7 @@ Koishi 基于 NodeJS，CoolQ 和 CQHTTP，因此你需要先安装它们。
 
 - NodeJS：[https://nodejs.org](https://nodejs.org/)
 - CoolQ：[https://cqp.cc](https://cqp.cc)
-- CQHTTP：[https://cqhttp.cc](https://cqhttp.cc)
+- CQHTTP：[https://cqhttp.cc/docs](https://cqhttp.cc/docs)
 
 进行相应的配置并运行 CoolQ 和 CQHTTP 后，你就可以愉快地使用 Koishi 了。
 
